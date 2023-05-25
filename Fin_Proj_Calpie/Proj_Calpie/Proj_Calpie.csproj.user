@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Find_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DayData_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUp_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Team_Calender\AddAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Team_Calender\AddDaily.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Team_Calender\AddMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Team_Calender\Add_Delete_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Team_Calender\AditAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Team_Calender\SubAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Team_Calender\SubDaily.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Team_Calender\SubMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlBlank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlDays.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
